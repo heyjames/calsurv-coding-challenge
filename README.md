@@ -6,6 +6,13 @@
 4. Type "node index.js" and the app should be running.
 5. Visit localhost:3000 on your web browser
 
+### Postgres Connection Info
+* Host: localhost
+* Port: 5432
+* Database: coding_challenge
+* Table names: untitled_table (titles), ratings
+* no user/password setup
+
 ### To do
 * Make sure async is used appropriately in certain areas of code
 * Clean-up code and export sections of code in index.js into own JS modules and categorize them in appropriately-named folders
